@@ -1,6 +1,6 @@
 # Hi, I'm Nimendra 👋🏻👨🏻‍💻
 
-<img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/animated-header.gif" alt="animtead-banner">
 
 A Design Artist with experience of 5+ years, with added qualifications of being a Software Developer. And, I'm currently majoring in a Bachelors's Degree in Software Engineering.
 
