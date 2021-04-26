@@ -11,9 +11,8 @@ I have been working as a Freelancer and served Domestic and International client
 - <a href="https://www.instagram.com/nimendra.k/">Instagram</a> 📷
 - <a href="https://www.facebook.com/nimendra.kariyawasam/">Facebook</a> 👤
 - <a href="https://www.linkedin.com/in/nimendrak">LinkedIn</a> 💼
-- <a href="https://twitter.com/nimendrak">Twitter</a> 🐳
 - <a href="mailto:nimendra.vor@gmail.com">E-mail</a> 📧
 
 ## My GitHub Stats & Most used Languages
 
-![nimendrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimendrak&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=false) </t> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimendrak&layout=compact&theme=chartreuse-dark&hide_title=true)](https://github.com/nimendrak/github-readme-stats)
+![nimendrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimendrak&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true) </t> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimendrak&layout=compact&theme=chartreuse-dark&hide_title=true)](https://github.com/nimendrak/github-readme-stats)
