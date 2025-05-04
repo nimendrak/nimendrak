@@ -2,17 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/animated-header.gif" alt="animated-banner">
 
-A Design Artist with experience of 5+ years, with added qualifications of being a Software Developer. And, I'm currently majoring in a Bachelors's Degree in Software Engineering.
+## About
 
-I have been working as a Freelancer and served Domestic and International clients in both Design and Develop projects. My primary range of skills are Branding, User Experience, User Interface Design, Web and Mobile Applications Develop. 
+As a DevSecOps & Platform Engineer with nearly 4 years of experience across SRE and DevSecOps, I specialize in delivering secure, automated, and high-performing systems in multi-cloud environments. I’ve consistently applied best practices in CI/CD, infrastructure, and observability to drive reliability, reduce risk, and elevate platform performance.
 
-## Get in Touch<img align="left" width="150" height="150" src="https://raw.githubusercontent.com/nimendrak/nimendrak/main/my-octo/my-octocat.png"></a>
+I’m passionate about embedding security across the software delivery lifecycle - bridging development, operations, and security to build resilient systems. I’ve led zero-downtime cloud migrations, implemented SLO-driven reliability frameworks, and championed engineering initiatives that helped teams scale confidently and securely.
 
-- <a href="https://www.instagram.com/nimendra.k/">Instagram</a> 📷
-- <a href="https://www.facebook.com/nimendra.kariyawasam/">Facebook</a> 👤
-- <a href="https://www.linkedin.com/in/nimendrak">LinkedIn</a> 💼
-- <a href="mailto:nimendra.vor@gmail.com">E-mail</a> 📧
-
-## My GitHub Stats
-
-![nimendrak's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimendrak&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&hide_title=true&hide_rank=false)
+Known for working seamlessly across product, engineering, and QA, I bring a strategic, hands-on approach to solving complex challenges and delivering scalable, end-to-end solutions.
